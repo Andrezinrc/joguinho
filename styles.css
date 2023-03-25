@@ -10,8 +10,3 @@ body{
 canvas{
     border: 1px solid white;
 }
-.container{
-  position: relative;
-  left: 50%;
-  transform: translateX(-300px);
-}
